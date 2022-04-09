@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "866747943487",
+    "firebase_url": "https://mobileapps-leal.firebaseio.com",
+    "project_id": "mobileapps-leal",
+    "storage_bucket": "mobileapps-leal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866747943487:android:fb5c76ef8affc7ee73868a",
+        "android_client_info": {
+          "package_name": "dev.eduardoleal.ldm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866747943487-fq0mubt8u5ua9d316d8v4mh90dvr6s27.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSo4-wWPEBifYu9sX9Rags17-_b4UoOh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866747943487-fq0mubt8u5ua9d316d8v4mh90dvr6s27.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "866747943487-f3m8iehc1kgh84ggnjktmo8v30ejh1ec.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "TCAPP"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866747943487:android:cacac5a7ff839c9073868a",
+        "android_client_info": {
+          "package_name": "dev.eduardoleal.meecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866747943487-fq0mubt8u5ua9d316d8v4mh90dvr6s27.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSo4-wWPEBifYu9sX9Rags17-_b4UoOh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866747943487-fq0mubt8u5ua9d316d8v4mh90dvr6s27.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "866747943487-f3m8iehc1kgh84ggnjktmo8v30ejh1ec.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "TCAPP"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

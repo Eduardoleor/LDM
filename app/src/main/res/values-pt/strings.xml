@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LDM</string>
+    <string name="main_title">Receber!</string>
+    <string name="main_subtitle">LDM</string>
+    <string name="main_btn_signin">Iniciar sessão</string>
+    <string name="main_btn_signup">Registro</string>
+    <string name="signin_title">Iniciar sessão</string>
+    <string name="signin_input_email">Correio eletrônico</string>
+    <string name="signin_input_password">Senha</string>
+    <string name="signin_btn_signin">Iniciar sessão</string>
+    <string name="signup_title">Registro</string>
+    <string name="signup_input_fullname">Nome completo</string>
+    <string name="signup_input_email">Correio eletrônico</string>
+    <string name="signup_password">Senha</string>
+    <string name="signup_repeat_password">Repetir a senha</string>
+    <string name="signup_user_type">Tipo de usuário</string>
+    <string name="signup_button_signup">Registro</string>
+    <string name="home_title">Começar</string>
+    <string name="home_instructions">Opções disponíveis</string>
+    <string name="home_btn_meet">Chamada de vídeo e bate-papo</string>
+    <string name="home_btn_logout">Fechar Sessão</string>
+    <string name="dialog_lng_title">Selecione um idioma</string>
+    <string name="dialog_option_en">Inglês</string>
+    <string name="dialog_option_es">Espanhol</string>
+    <string name="dialog_option_pt">Português</string>
+    <string name="switch_admin">Administrador</string>
+    <string name="switch_user">Cliente</string>
+</resources>

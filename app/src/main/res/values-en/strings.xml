@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LDM</string>
+    <string name="main_title">Welcome!</string>
+    <string name="main_subtitle">LDM</string>
+    <string name="main_btn_signin">Log in</string>
+    <string name="main_btn_signup">Register</string>
+    <string name="signin_title">Sign in</string>
+    <string name="signin_input_email">Email</string>
+    <string name="signin_input_password">Password</string>
+    <string name="signin_btn_signin">Log In</string>
+    <string name="signup_title">Register</string>
+    <string name="signup_input_fullname">Full name</string>
+    <string name="signup_input_email">Email</string>
+    <string name="signup_password">Password</string>
+    <string name="signup_repeat_password">Repeat password</string>
+    <string name="signup_user_type">User type</string>
+    <string name="signup_button_signup">Register</string>
+    <string name="home_title">Home</string>
+    <string name="home_instructions">Available options</string>
+    <string name="home_btn_meet">Video call and chat</string>
+    <string name="home_btn_logout">Sign out</string>
+    <string name="dialog_lng_title">Select a Language</string>
+    <string name="dialog_option_en">English</string>
+    <string name="dialog_option_es">Spanish</string>
+    <string name="dialog_option_pt">Portuguese</string>
+    <string name="switch_admin">Administrator</string>
+    <string name="switch_user">Client</string>
+</resources>
